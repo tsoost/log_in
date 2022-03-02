@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518293416645",
+    "project_id": "log-in-84cad",
+    "storage_bucket": "log-in-84cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518293416645:android:bf7a0c5dfdea7b7ad99eac",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518293416645-fg54snvgeq49u8pigqvmgetcdgf591nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEoKVLdyhlOHqmQX2xDG8MnJ-ROJwk9Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518293416645-fg54snvgeq49u8pigqvmgetcdgf591nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
